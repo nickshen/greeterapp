@@ -1,4 +1,5 @@
 # greeterapp
+### + editable greeting from client + highest bid promotional message
 Solidity + React basic web3 app
 
 Extended the basic greeter app by allowing edit access to greeting contract's greeting string from the client.
